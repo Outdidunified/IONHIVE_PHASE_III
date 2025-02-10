@@ -1,0 +1,382 @@
+06/01/2025 17:22:44 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 17:24:35 [INFO]: HTTP Server listening on port 3003
+06/01/2025 17:24:42 [INFO]: HTTP Server listening on port 3003
+06/01/2025 17:24:50 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:23:29 [INFO]: HTTP Server listening on port 3003
+06/01/2025 18:25:16 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:25:54 [INFO]: vivek@outdidtech.com - Invalid OTP
+06/01/2025 18:26:01 [INFO]: vivek@outdidtech.com - Invalid OTP
+06/01/2025 18:26:57 [INFO]: HTTP Server listening on port 3003
+06/01/2025 18:27:04 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:27:23 [INFO]: vivek@outdidtech.com - Invalid OTP
+06/01/2025 18:28:45 [INFO]: HTTP Server listening on port 3003
+06/01/2025 18:29:00 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:29:10 [INFO]: vivek@outdidtech.com - OTP validated successfully
+06/01/2025 18:29:10 [INFO]: saveUserdetails - db.collection is not a function
+06/01/2025 18:29:10 [INFO]: authOTP - res is not defined
+06/01/2025 18:31:44 [INFO]: HTTP Server listening on port 3003
+06/01/2025 18:32:55 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:33:04 [INFO]: vivek@outdidtech.com - OTP validated successfully
+06/01/2025 18:33:04 [INFO]: saveUserdetails - db.collection is not a function
+06/01/2025 18:33:04 [INFO]: authOTP - res is not defined
+06/01/2025 18:34:25 [INFO]: HTTP Server listening on port 3003
+06/01/2025 18:34:29 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:34:37 [INFO]: vivek@outdidtech.com - OTP validated successfully
+06/01/2025 18:34:37 [INFO]: saveUserdetails - db.collection is not a function
+06/01/2025 18:34:37 [INFO]: authOTP - message is not defined
+06/01/2025 18:34:57 [INFO]: HTTP Server listening on port 3003
+06/01/2025 18:35:05 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:36:15 [INFO]: HTTP Server listening on port 3003
+06/01/2025 18:36:19 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:36:28 [INFO]: vivek@outdidtech.com - OTP validated successfully
+06/01/2025 18:36:28 [INFO]: saveUserdetails - db.collection is not a function
+06/01/2025 18:36:28 [INFO]: authOTP - message is not defined
+06/01/2025 18:37:17 [INFO]: HTTP Server listening on port 3003
+06/01/2025 18:37:24 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:37:32 [INFO]: vivek@outdidtech.com - OTP validated successfully
+06/01/2025 18:37:32 [INFO]: saveUserdetails - db.collection is not a function
+06/01/2025 18:41:23 [INFO]: HTTP Server listening on port 3003
+06/01/2025 18:41:36 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:41:44 [INFO]: vivek@outdidtech.com - OTP validated successfully
+06/01/2025 18:41:44 [INFO]: saveUserdetails - db.collection is not a function
+06/01/2025 18:43:29 [INFO]: HTTP Server listening on port 3003
+06/01/2025 18:43:36 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:43:46 [INFO]: vivek@outdidtech.com - OTP validated successfully
+06/01/2025 18:43:47 [INFO]: vivek@outdidtech.com - Registered successfully !
+06/01/2025 18:44:41 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:44:49 [INFO]: vivek@outdidtech.com - OTP validated successfully
+06/01/2025 18:45:09 [INFO]: vivek@outdidtech.com - OTP is Generated
+06/01/2025 18:45:13 [INFO]: vivek@outdidtech.com - Invalid OTP
+06/01/2025 18:45:22 [INFO]: vivek@outdidtech.com - OTP validated successfully
+06/01/2025 18:45:22 [INFO]: vivek@outdidtech.com - Registered successfully !
+07/01/2025 11:35:10 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 11:44:42 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 11:52:00 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 11:52:37 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 11:53:42 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 11:56:51 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 11:56:58 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 11:57:24 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 11:58:47 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+07/01/2025 11:58:47 [INFO]: anishkumarak8686@gmail.com - Registered successfully !
+07/01/2025 12:01:44 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+07/01/2025 12:02:04 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+07/01/2025 12:05:20 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:05:23 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 12:06:34 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+07/01/2025 12:13:47 [INFO]: HTTP Server listening on port 3003
+07/01/2025 12:14:23 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:14:41 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+07/01/2025 12:15:26 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+07/01/2025 12:15:27 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+07/01/2025 12:15:40 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:16:01 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 12:16:18 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+07/01/2025 12:16:45 [INFO]: vivek@outdidtech.com - OTP is Generated
+07/01/2025 12:16:54 [INFO]: vivek@outdidtech.com - OTP validated successfully
+07/01/2025 12:18:32 [INFO]: HTTP Server listening on port 3003
+07/01/2025 12:18:38 [INFO]: vivek@outdidtech.com - OTP is Generated
+07/01/2025 12:18:48 [INFO]: vivek@outdidtech.com - OTP validated successfully
+07/01/2025 12:19:03 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+07/01/2025 12:19:12 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:19:33 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+07/01/2025 12:27:48 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:28:04 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 12:28:33 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+07/01/2025 12:34:07 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:34:17 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:34:54 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 12:35:06 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 12:35:14 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 12:38:10 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:38:12 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 12:38:14 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 12:38:39 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+07/01/2025 12:38:39 [INFO]: anishkumarak8686@gmail.com - Registered successfully !
+07/01/2025 12:41:45 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:42:45 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:44:01 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:44:58 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:47:05 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:50:40 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:52:31 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:54:39 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 12:56:16 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 13:05:59 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 14:15:35 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 14:33:11 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 14:48:05 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 14:50:12 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 14:50:40 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+07/01/2025 14:55:59 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 14:56:14 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+07/01/2025 14:56:14 [INFO]: anishkumarak8686@gmail.com - Registered successfully !
+07/01/2025 15:09:35 [INFO]: HTTP Server listening on port 3003
+07/01/2025 15:36:28 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 15:36:49 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:36:51 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:36:55 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:36:57 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:36:58 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:36:59 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:00 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:01 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:01 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:02 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:02 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:07 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:07 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:08 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:09 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:10 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:10 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:11 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:13 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:13 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:14 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:16 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:17 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:18 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:19 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:19 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:20 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:21 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:37:21 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:38:22 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:38:24 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:38:35 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:38:51 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:38:52 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:38:52 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:38:53 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:38:54 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:39:02 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:39:06 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:39:07 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:39:52 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:40:39 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 15:40:43 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 15:41:05 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:41:09 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:41:48 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:41:53 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:41:58 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:42:21 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:43:24 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:43:28 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:43:30 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:43:33 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 15:43:47 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 15:44:02 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:44:34 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:45:13 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 15:55:45 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 15:58:35 [INFO]: mvivekpandurangan@gmail.com - OTP is Generated
+07/01/2025 15:58:42 [INFO]: mvivekpandurangan@gmail.com - OTP is Generated
+07/01/2025 15:58:51 [INFO]: mvivekpandurangan@gmail.com - OTP is Generated
+07/01/2025 15:59:00 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 16:22:33 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 16:22:37 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 16:22:59 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 16:23:31 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+07/01/2025 16:27:10 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 16:27:24 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+07/01/2025 16:27:41 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+07/01/2025 16:29:13 [INFO]: mvivekpandurangan@gmail.com - OTP is Generated
+07/01/2025 16:30:06 [INFO]: pandianps10@gmail.com - OTP is Generated
+07/01/2025 16:30:24 [INFO]: pandianps10@gmail.com - OTP validated successfully
+07/01/2025 16:30:24 [INFO]: pandianps10@gmail.com - Registered successfully !
+07/01/2025 16:38:38 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 16:39:15 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+07/01/2025 19:04:10 [INFO]: nagashreenaik040@gmail.com - OTP is Generated
+07/01/2025 19:04:18 [INFO]: nagashreenaik040@gmail.com - OTP is Generated
+07/01/2025 19:04:27 [INFO]: nagashreenaik040@gmail.com - Invalid OTP
+07/01/2025 19:04:42 [INFO]: nagashreenaik040@gmail.com - Invalid OTP
+07/01/2025 19:04:46 [INFO]: nagashreenaik040@gmail.com - Invalid OTP
+07/01/2025 19:04:53 [INFO]: nagashreenaik040@gmail.com - OTP is Generated
+07/01/2025 19:05:11 [INFO]: nagashreenaik040@gmail.com - Invalid OTP
+07/01/2025 19:05:23 [INFO]: nagashreenaik040@gmail.com - OTP validated successfully
+07/01/2025 19:05:23 [INFO]: nagashreenaik040@gmail.com - Registered successfully !
+07/01/2025 19:05:59 [INFO]: nagashreenaik040@gmail.com - OTP is Generated
+07/01/2025 19:06:03 [INFO]: nagashreenaik040@gmail.com - Invalid OTP
+08/01/2025 12:03:12 [INFO]: HTTP Server listening on port 3003
+08/01/2025 13:01:04 [INFO]: anishkumarak8686@gmil.com - OTP is Generated
+08/01/2025 13:01:09 [INFO]: anishkumarak8686@gmil.com - Invalid OTP
+08/01/2025 13:01:11 [INFO]: anishkumarak8686@gmil.com - Invalid OTP
+08/01/2025 13:01:11 [INFO]: anishkumarak8686@gmil.com - Invalid OTP
+08/01/2025 13:01:11 [INFO]: anishkumarak8686@gmil.com - Invalid OTP
+08/01/2025 13:01:11 [INFO]: anishkumarak8686@gmil.com - Invalid OTP
+08/01/2025 13:01:12 [INFO]: anishkumarak8686@gmil.com - Invalid OTP
+08/01/2025 13:01:13 [INFO]: anishkumarak8686@gmil.com - Invalid OTP
+08/01/2025 15:38:57 [INFO]: HTTP Server listening on port 3003
+08/01/2025 15:54:42 [INFO]: HTTP Server listening on port 3003
+08/01/2025 15:58:02 [INFO]: HTTP Server listening on port 3003
+08/01/2025 15:59:36 [INFO]: HTTP Server listening on port 3003
+08/01/2025 17:42:28 [INFO]: shreegourikulkarni24@gmail.com - OTP is Generated
+09/01/2025 16:31:45 [INFO]: HTTP Server listening on port 3003
+10/01/2025 11:57:32 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+10/01/2025 11:58:00 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+10/01/2025 12:13:26 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+10/01/2025 12:13:42 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+10/01/2025 13:04:02 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+10/01/2025 13:04:38 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+10/01/2025 15:56:47 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+10/01/2025 15:57:05 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+10/01/2025 15:57:26 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+10/01/2025 15:57:40 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+10/01/2025 15:57:43 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+10/01/2025 15:57:48 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+10/01/2025 15:58:10 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+10/01/2025 16:31:04 [INFO]: vivek@outdidtech.com - OTP is Generated
+10/01/2025 17:16:54 [INFO]: vivek@outdidtech.com - OTP is Generated
+10/01/2025 17:17:09 [INFO]: vivek@outdidtech.com - OTP validated successfully
+10/01/2025 17:26:42 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+10/01/2025 17:27:59 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+20/01/2025 14:37:33 [INFO]: anishkumarak8686@gmil.com - OTP is Generated
+20/01/2025 14:37:53 [INFO]: anishkumarak8686@gmil.com - Invalid OTP
+20/01/2025 14:38:07 [INFO]: anishkumarak8686@gmil.com - OTP validated successfully
+20/01/2025 14:38:07 [INFO]: anishkumarak8686@gmil.com - Registered successfully !
+20/01/2025 16:03:40 [INFO]: shreegourikulkarni24@gmail.com - OTP is Generated
+20/01/2025 16:04:00 [INFO]: shreegourikulkarni24@gmail.com - OTP validated successfully
+20/01/2025 16:04:00 [INFO]: shreegourikulkarni24@gmail.com - Registered successfully !
+20/01/2025 18:01:02 [INFO]: shreegourikulkarni24@gmail.com - OTP is Generated
+20/01/2025 18:01:02 [INFO]: shreegourikulkarni24@gmail.com - OTP is Generated
+20/01/2025 18:01:02 [INFO]: shreegourikulkarni24@gmail.com - OTP is Generated
+20/01/2025 18:01:02 [INFO]: shreegourikulkarni24@gmail.com - OTP is Generated
+21/01/2025 12:13:12 [INFO]: anishkumarak8686@gmil.com - OTP is Generated
+21/01/2025 13:01:16 [INFO]: anishkumarak8686@gmil.com - OTP is Generated
+23/01/2025 11:01:45 [INFO]: HTTP Server listening on port 3003
+23/01/2025 11:02:06 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+23/01/2025 11:02:31 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+23/01/2025 11:02:35 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+23/01/2025 11:02:55 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+23/01/2025 11:03:36 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+23/01/2025 13:00:57 [INFO]: shreegourikulkarni24@gmail.com - OTP is Generated
+23/01/2025 13:01:17 [INFO]: shreegourikulkarni24@gmail.com - OTP validated successfully
+23/01/2025 13:05:01 [INFO]: nagashreenaik040@gmail.com - OTP is Generated
+23/01/2025 13:06:04 [INFO]: nagashreenaik040@gmail.com - OTP validated successfully
+23/01/2025 17:41:14 [INFO]: mvivekpandurangan@gmail.com - OTP is Generated
+23/01/2025 17:41:14 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+23/01/2025 17:41:14 [INFO]: mvivekpandurangan@gmail.com - OTP is Generated
+23/01/2025 17:41:24 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+23/01/2025 17:41:48 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 12:59:03 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 12:59:31 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 13:00:57 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 13:04:38 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 13:04:42 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 13:04:53 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 13:05:00 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+24/01/2025 13:05:37 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+24/01/2025 13:05:59 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+24/01/2025 13:06:01 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 13:06:42 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 14:59:59 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 15:00:00 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 15:02:32 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 15:05:02 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 15:05:14 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+24/01/2025 15:05:19 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 16:00:24 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:01:20 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 16:01:39 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 16:29:06 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 16:29:23 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 16:30:27 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:32:31 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:32:37 [INFO]: deleteAccount - Cannot destructure property 'email_id' of 'req.reason' as it is undefined.
+24/01/2025 16:34:24 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:34:33 [INFO]: deleteAccount - Cannot set headers after they are sent to the client
+24/01/2025 16:34:46 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:35:53 [INFO]: deleteAccount - Cannot set headers after they are sent to the client
+24/01/2025 16:37:03 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:37:20 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:38:28 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:39:05 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 16:39:16 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 16:44:02 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:45:57 [INFO]: deleteAccount - Users is not defined
+24/01/2025 16:47:56 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:48:03 [INFO]: anishkumarak8686@gmail.com - Delete account mail sent.
+24/01/2025 16:48:03 [INFO]: anishkumarak8686@gmail.com - Account deleted successfully !
+24/01/2025 16:50:09 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:50:28 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 16:50:38 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 16:50:39 [INFO]: anishkumarak8686@gmail.com - Registered successfully !
+24/01/2025 16:51:16 [INFO]: anishkumarak8686@gmail.com - Delete account mail sent.
+24/01/2025 16:51:16 [INFO]: anishkumarak8686@gmail.com - Account deleted successfully !
+24/01/2025 16:51:56 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:52:18 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 16:52:27 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 16:52:28 [INFO]: anishkumarak8686@gmail.com - Registered successfully !
+24/01/2025 16:52:50 [INFO]: anishkumarak8686@gmail.com - Delete account mail sent.
+24/01/2025 16:52:50 [INFO]: anishkumarak8686@gmail.com - Account deleted successfully !
+24/01/2025 16:53:50 [INFO]: HTTP Server listening on port 3003
+24/01/2025 16:54:04 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 16:54:17 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 16:54:18 [INFO]: anishkumarak8686@gmail.com - Registered successfully !
+24/01/2025 16:54:29 [INFO]: anishkumarak8686@gmail.com - Delete account mail sent.
+24/01/2025 16:54:29 [INFO]: anishkumarak8686@gmail.com - Account deleted successfully !
+24/01/2025 16:55:37 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 16:55:51 [INFO]: anishkumarak8686@gmail.com - Invalid OTP
+24/01/2025 16:56:05 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 16:56:05 [INFO]: anishkumarak8686@gmail.com - Registered successfully !
+24/01/2025 17:02:21 [INFO]: HTTP Server listening on port 3003
+24/01/2025 17:02:48 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 17:03:18 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 17:09:30 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 17:09:50 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 17:18:44 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 17:19:25 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 17:22:54 [INFO]: anishkumarak86886@gmail.com - OTP is Generated
+24/01/2025 17:23:09 [INFO]: anishkumarak86886@gmail.com - OTP validated successfully
+24/01/2025 17:23:09 [INFO]: anishkumarak86886@gmail.com - Registered successfully !
+24/01/2025 17:26:03 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 17:26:27 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 17:31:21 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 17:31:39 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 17:34:57 [INFO]: Invalid token: invalid token, IP: ::ffff:192.168.1.12
+24/01/2025 17:35:28 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 17:35:46 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 17:35:49 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+24/01/2025 17:35:52 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+24/01/2025 17:36:15 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+24/01/2025 17:36:18 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+24/01/2025 17:36:21 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+24/01/2025 17:36:32 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 17:36:50 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 17:36:53 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+24/01/2025 17:36:55 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+24/01/2025 17:37:23 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 17:37:52 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 17:37:55 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+24/01/2025 17:38:22 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 17:38:38 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 17:38:43 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+24/01/2025 17:38:46 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+24/01/2025 17:38:51 [INFO]: anishkumarak8686@gmail.com - OTP is not available / expired
+24/01/2025 17:41:37 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 17:41:55 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 17:42:11 [INFO]: Invalid token: invalid token, IP: ::ffff:192.168.1.12
+24/01/2025 17:45:09 [INFO]: HTTP Server listening on port 3003
+24/01/2025 17:45:54 [INFO]: anishkumarak8686@gmail.com - OTP is Generated
+24/01/2025 17:46:12 [INFO]: anishkumarak8686@gmail.com - OTP validated successfully
+24/01/2025 17:46:25 [INFO]: Invalid token: invalid token, IP: ::ffff:192.168.1.12, token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbF9pZCI6ImFuaXNoa3VtYXJhazg2ODZAZ21haWwuY29tIiwiaWF0IjoxNzM3NzIwOTczfQ.ENPkL3fsV2eAhpfHjCMCjQ_w64b8rPNeLrMl0L7ZUSM
+24/01/2025 17:46:27 [INFO]: Invalid token: invalid token, IP: ::ffff:192.168.1.12, token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbF9pZCI6ImFuaXNoa3VtYXJhazg2ODZAZ21haWwuY29tIiwiaWF0IjoxNzM3NzIwOTczfQ.ENPkL3fsV2eAhpfHjCMCjQ_w64b8rPNeLrMl0L7ZUSM
+24/01/2025 18:31:34 [INFO]: vivek@outdidtech.com - OTP is Generated
+24/01/2025 18:31:47 [INFO]: vivek@outdidtech.com - OTP validated successfully
+24/01/2025 18:34:14 [INFO]: Invalid token: invalid token, IP: ::ffff:192.168.1.7, token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbF9pZCI6InZpdmVrQG91dGRpZHRlY2guY29tIiwiaWF0IjoxNzM3NzIzNzA4fQ.FprGndbcfVlsrnGRSj6nItKnwqkU9F4KvxODkGFhy6A"
+24/01/2025 18:34:26 [INFO]: vivek@outdidtech.com - Delete account mail sent.
+24/01/2025 18:34:26 [INFO]: vivek@outdidtech.com - Account deleted successfully !
+24/01/2025 18:35:25 [INFO]: HTTP Server listening on port 3003
+24/01/2025 18:35:30 [INFO]: vivek@outdidtech.com - OTP is Generated
+24/01/2025 18:35:43 [INFO]: vivek@outdidtech.com - OTP validated successfully
+24/01/2025 18:35:43 [INFO]: vivek@outdidtech.com - Registered successfully !
+24/01/2025 18:36:02 [INFO]: vivek@outdidtech.com - Delete account mail sent.
+24/01/2025 18:36:02 [INFO]: vivek@outdidtech.com - Account deleted successfully !
+24/01/2025 18:36:19 [INFO]: Invalid token: invalid token, IP: ::ffff:192.168.1.7, token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbF9pZCI6InZpdmVrQG91dGRpZHRlY2guY29tIiwiaWF0IjoxNzM3NzIzOTQzfQ.MpUs-m48WwjOtf7wLpRwfDXjPWqwRMWDZ6PAzSONPdI"
+01/02/2025 17:05:25 [INFO]: HTTP Server listening on port 3003
+01/02/2025 17:05:35 [INFO]: shreegourikulkarni24@gmail.com - OTP is Generated
+01/02/2025 17:05:49 [INFO]: shreegourikulkarni24@gmail.com - OTP validated successfully
+01/02/2025 17:11:34 [INFO]: shreegourikulkarni24@gmail.com - OTP is Generated
+01/02/2025 17:12:04 [INFO]: shreegourikulkarni24@gmail.com - OTP validated successfully
