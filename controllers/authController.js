@@ -65,7 +65,7 @@ const authOTP = async (req, res) => {
             }
 
              // Validate OTP (check if it's correct)
-             if (storedOTP.otp === otp) {
+            if (storedOTP.otp === otp) {
                 
                 console.log(`OTP validated successfully for ${email_id}`);
                 logger.info(`${email_id} - OTP validated successfully`);
@@ -114,7 +114,7 @@ async function saveUserdetails(email_id, name) {
         const existingUser = await usersCollection.findOne({ email_id: email_id });
 
         if (existingUser && existingUser.status === true) {
-            return { error: false ,message: 'Logged In successfully', data: {email_id, user_id: existingUser.user_id}};
+            return { error: false ,message: 'Logged In successfully', data: {email_id, user_id: existingUser.user_id, username: existingUser.username}};
         }else if(existingUser && existingUser.status === false){
             const updateResult = await usersCollection.updateOne(
                 { user_id: existingUser.user_id },
@@ -168,7 +168,7 @@ async function saveUserdetails(email_id, name) {
 
             if (insertResult.acknowledged) {
                 logger.info(`${email_id} - Registered successfully !`);
-                return { error: false ,message: `Registered successfully !`, data: {email_id, user_id: newUserId}};
+                return { error: false ,message: `Registered successfully !`, data: {email_id, user_id: newUserId, username: name}};
             } else {
                 logger.info(`${email_id} - Failed to Register, Please try again later !`);
                 return { error: true ,message: `Failed to Register, Please try again later !`};
